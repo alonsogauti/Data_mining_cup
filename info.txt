@@ -3,6 +3,7 @@ Team Name : Inst_AIM_Kolkata_1
 Team ID: 
 
 Task link:  https://www.data-mining-cup.com/dmc-2021/
+Resourse Link: https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
 
 
 What we have in store:
