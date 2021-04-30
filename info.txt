@@ -1,0 +1,36 @@
+Team Name : Inst_AIM_Kolkata_1
+
+Team ID: 
+
+Task link:  https://www.data-mining-cup.com/?utm_source=dmc-teamleader&utm_medium=email&utm_campaign=newsletter&%3Futm_source=dmc-teamleader
+
+
+What we have in store:
+
+1. Prize money
+1. 2000 euro
+2. 1000 euro
+3. 500   euro
+
+2. Top 10 teams will get Chance to present their Idea
+
+3. job Opportunities
+
+
+What we have to Do
+-> Just to Find out the best way to predict and design a recommendation system.
+
+What Problem We have in front of Us
+: The book Recommendation System
+
+Can We Achieve It and How
+1. Clustering
+2. Regression
+3. Apriori Algo
+4. Classification
+
+
+
+ 
+
+
